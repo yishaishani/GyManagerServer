@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="yishai-001-site1" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\yishaishani\\documents\\visual\ studio\ 2015\\Projects\\GyManagerAPI\\GManager\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\yishaishani\\documents\\visual\ studio\ 2015\\Projects\\GyManagerAPI\\GManager\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=SQL5031.SmarterASP.NET;Initial Catalog=DB_A26C48_elirany;User Id=DB_A26C48_elirany_admin;Password=shani1989" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\yishaishani\\documents\\visual\ studio\ 2015\\Projects\\GyManagerAPI\\GManager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

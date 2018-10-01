@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GManager.Controllers.TrainersScheduleController">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAIAAAAgBAAAAAAAAAAAAEAAgAAAIAAAAAAAAA=</HashCode>
+      <FileName>Controllers\TrainersScheduleController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GManager.Controllers.ScheduleCoachesController">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAIAAAAgAAAAAAAAAAAAAEAAgAAAIAKAAAAAAA=</HashCode>
+      <FileName>Controllers\ScheduleCoachesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GManager.Controllers.OpeningHoursController">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAAIAAAAAEAAA=</HashCode>
+      <FileName>Controllers\OpeningHoursController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GManager.Controllers.ManagerController">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAIAAAAAABAAAAAAAAACAEAAAAAAIAAAAAEAAA=</HashCode>
+      <FileName>Controllers\ManagerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GManager.Controllers.CoachesController">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAABAAAAAAAAgCAEAAAAAAIAAAAAEAAA=</HashCode>
+      <FileName>Controllers\CoachesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GManager.Controllers.TrainersController">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAABAAAAAAAAACAEAAAAAAIABAAAEAAA=</HashCode>
+      <FileName>Controllers\TrainersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GyManagerAPI.Controllers.MembersController">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAACAACAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Controllers\MembersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
